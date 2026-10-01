@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I am a B.Tech student pursuing Electronics and Communication Engineering, with a strong interest in technology, data analytics, and software-related fields. As a fresher, I am currently building my technical knowledge and practical skills through academic learning, projects, and continuous self-improvement. I have basic knowledge of Python, SQL, Microsoft Excel, Power BI, and Tableau, and I am interested in using these technologies to understand data, identify useful insights, and create meaningful visualizations.<br><br>During my learning journey, I have worked on several data analytics and dashboard projects. These include a Hospital Emergency Room Dashboard using Power BI, where I worked with data related to patient admissions, waiting times, patient satisfaction, referrals, and demographic information. I have also worked on a Salary Analysis Dashboard using Tableau and other data visualization projects. These projects helped me understand how data can be organized, analyzed, and presented in a simple and understandable way.<br><br>Apart from technical skills, I consider myself a hardworking, responsible, and quick-learning person. I am comfortable learning new technologies and improving my skills through practice. Since I am at the beginning of my professional career, I understand that there is still a lot to learn, and I am open to feedback and guidance. I believe that consistency, patience, teamwork, and a willingness to learn are important qualities for building a successful career.<br><br>I am also interested in improving my problem-solving and programming skills. I regularly practice coding problems to strengthen my logical thinking and understanding of programming concepts. My goal is not only to learn theoretical concepts but also to apply them through practical projects and real-world problems.<br><br>As an Electronics and Communication Engineering student, I have also developed an interest in areas such as electronics, communication systems, and emerging technologies. My engineering background has helped me develop analytical thinking and an understanding of technical concepts. At the same time, my interest in data analytics has motivated me to explore software and data-oriented career opportunities.<br><br>I am looking forward to starting my professional career in an organization where I can apply my existing knowledge, learn from experienced professionals, contribute to projects, and continuously improve my technical and professional skills. My long-term goal is to become a skilled professional who can solve real-world problems, work effectively with teams, and keep learning as technology continues to evolve.
 
-<!--
-**pradeep4072/pradeep4072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/godsarchos/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kalle-pradeep-kumar-b66079410/?isSelfProfile=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k.pradeepkumar20034@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pradeep4072&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=pradeep4072&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pradeep4072&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=pradeep4072&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
